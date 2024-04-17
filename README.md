@@ -1,6 +1,6 @@
 # Odin Recipes
 
-Odin Recipes is a basic recipe website and is the implementation of what I have learned so far by taking the Foundations course. Some new knowledge that I have acquired at the point of building Odin Recipes are:
+Odin Recipes is a basic recipe website and is the implementation of what I have learned so far by taking the Foundations course. Some new knowledges that I have acquired at the point of building Odin Recipes are:
 - Running Linux (Xubuntu) operating system on a virtual machine using VirtualBox
 - Installing apps on Xubuntu using the command line interface (CLI)
 - Basic command line operations
