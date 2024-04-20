@@ -1,0 +1,16 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+img.dish {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 480px;
+}
